@@ -1,4 +1,4 @@
-# Learning-Fair-Node-Representations-without-Demographic-Information
+# Fair Graph Learning without Demographic Information
 
 Author: Zichong Wang, Zhibo Chu, Wenbin Zhang
 
