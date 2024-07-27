@@ -1,6 +1,6 @@
 # Learning-Fair-Node-Representations-without-Demographic-Information
 
-Author: Zichong Wang
+Author: Zichong Wang, Zhibo Chu, Wenbin Zhang
 
 ## Citation
 
